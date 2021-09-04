@@ -5,6 +5,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-Bold";
+  color:orange;
 }
 .navbar-dark .navbar-brand {
     color: white;
@@ -60,10 +61,10 @@ hr{
 /* Sections */
 
 .colored-section {
-  background-image: url("images/life.jpg");
-  background-size: 1275px 640px;
+  background-image: url("images/done.jpg");
+  background-size: 1550px 700px;
   background-position: top 20px;
-  color: rgb(211, 176, 218);
+  color: rgb(12, 235, 127);
   min-height: 70vh;
 }
 
@@ -72,7 +73,7 @@ hr{
 }
 
 .start-button:hover{
-  background-color: rgb(13, 238, 219);
+  background-color: rgb(216, 219, 11);
   transition-delay: .5s;
 }
 
@@ -107,7 +108,7 @@ hr{
 /* Title Section */
 
 #title {
-  color: rgb(211, 176, 218);
+  color: rgb(12, 235, 127);
   text-align: left;
 }
 
@@ -142,18 +143,18 @@ hr{
 }
 
 .feature-button{
-  background-color: rgb(212, 141, 230);
+  background-color: rgb(235, 64, 12);
   color: white;
 }
 
 .feature-button:hover{
-  background-color: rgba(72, 55, 170, 0.2);
+  background-color: rgba(12, 235, 127);
   color: black;
 }
 
 .feature-title {
   font-size: 1.5rem;
-  color: rgba(85, 59, 255, 0.5);
+  color: rgba(235, 64, 12);
 }
 
 .feature-box {
@@ -161,7 +162,7 @@ hr{
 }
 
 .icon {
-  color: rgb(133, 120, 207);
+  color: rgb(235, 64, 12);
   margin-bottom: 1rem;
 }
 
@@ -341,7 +342,7 @@ newsletter
 ---------------------------------------------
 */
 .newsletter-container{
-  background-color: rgb(186, 114, 219);
+  background-color: #F7F6F2;
 }
 
 /* Add some padding and a grey background color to containers */
@@ -462,15 +463,15 @@ input[type=text], select, textarea {
 }
 
 input[type=text]:hover, select:hover, textarea:hover {
-  background-color: rgb(201, 91, 186);
+  background-color:#FF8882;
 }
 
 input[type=email]:hover{
-  background-color: rgb(192, 139, 228);
+  background-color: #FF8882;
 }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #FF8882;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -478,14 +479,14 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: yellow;
+  background-color: #FF8882;
   color: black;
 }
 
 /* Style the container/contact section */
 .container-contact {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #FF8882;
   padding: 10px;
 }
 
