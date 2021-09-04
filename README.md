@@ -8,7 +8,6 @@ A single page website created using HTML,CSS and Javascript
 ![Screenshot (534)](https://user-images.githubusercontent.com/84820086/132078380-edcc69fc-ce77-4d68-a57a-ebfdf8fccdb9.png)
 ![Screenshot (535)](https://user-images.githubusercontent.com/84820086/132078383-4cdfd5ea-0f0b-41a4-9738-8c3238259224.png)
 ![Screenshot (536)](https://user-images.githubusercontent.com/84820086/132078392-a4b958ef-507c-406e-abcb-507fbeef4259.png)
-![Screenshot (536)](https://user-images.githubusercontent.com/84820086/132078385-1bfe3ad1-3d8e-4a0a-b23c-f73a8ab571a9.png)
 ![Screenshot (537)](https://user-images.githubusercontent.com/84820086/132078396-24b0fa38-1031-4f8f-a3cc-0b593d3a8fde.png)
 ![Screenshot (538)](https://user-images.githubusercontent.com/84820086/132078401-48324853-402a-4456-8a4c-5aa5f4c003bb.png)
 
